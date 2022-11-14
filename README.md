@@ -1,6 +1,6 @@
 # Front End Week
  Front-end WEEK (06/11 à 12/11/22).  <br>
- ## Landig page para a Pearson Hardman, <br> 
+ ## Landing page para a Pearson Hardman, <br> 
  <p>Famoso escritório de advocacia de Nova York (The Suits  - série da Netflix). </p>
  <img width="63%" align="center" alt="Imagem  do projeto" width="50%" src="https://d335luupugsy2.cloudfront.net/cms/files/465092/1665620103/$ifdcmzvt8d">
  
